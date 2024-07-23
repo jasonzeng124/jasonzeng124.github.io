@@ -5,3 +5,5 @@ I started competitive programming a few years ago, and stuck to it because it wa
 I also play CTF on the side on team CPCSEC as a pwn main. (Our team usually almost AK's crypto and misc, and usually gets no pwn solves, so I can hardly claim to be a pwn main, I guess...)
 
 I also sometimes prepare for math or physics olympiad. If you go to college math contests on the East Coast, you might see me :D.
+
+In my free time, I like to play tennis, frisbee, or card games.

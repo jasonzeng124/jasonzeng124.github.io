@@ -7,7 +7,9 @@ author:     "jasonzeng124"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 mathjax: true
+alter: 0
 tags:
+    - Pinned
     - Blog
     - Life
 ---
