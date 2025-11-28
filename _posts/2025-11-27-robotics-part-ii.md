@@ -126,7 +126,7 @@ I sometimes say that I personally approved all three of the robots. This is pret
 
 Design wise, I feel like we have complex designs, and yet they aren't reviewed properly, resulting in pretty costly mistakes. And because of the way everything is designed, it's really hard to fix these mistakes.
 
-For mechanical, we just take too long. Maybe the parts are too complex, maybe we are just slow, I don't know. It just shouldn't take this long.
+For mechanical, we just take too long. Maybe the parts are too complex, maybe we are just slow, I don't know. It just shouldn't take this long. Other teams just cut stock (with pre-cut evenly spaced holes) to size (like approximately to size, not 1/1000 in to size) and drill it in, and we somehow just can't do this.
 
 Electrical, somehow no other team ever has as many electrical issues.
 

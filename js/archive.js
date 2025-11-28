@@ -88,8 +88,7 @@ https://github.com/kitian616/jekyll-TeXt-theme
         for (j = 0; j < $articles.length; j++) {
           var tags = $articles.eq(j).data('tags').split(',');
           var bad=0;
-          for (k=0;k<tags.length;k++) if(tags[k]==='alter'&&tag!=='alter') {
-            console.log(tags,tag);
+          for (k=0;k<tags.length;k++) if(tags[k]==='alter'&&!queryString().alter) {
             bad=1;
             break;
           }
@@ -127,9 +126,11 @@ https://github.com/kitian616/jekyll-TeXt-theme
         buttonFocus(target);
         _tag = target.attr('data-encode');
         if (_tag === '' || typeof _tag !== 'string') {
-          setUrlQuery();
+          if(queryString().alter) setUrlQuery("?alter=1")
+          else setUrlQuery();
         } else {
-          setUrlQuery('?tag=' + _tag);
+          if(queryString().alter) setUrlQuery('?tag=' + _tag + "&alter=1")
+          else setUrlQuery('?tag=' + _tag);
         }
       } else {
         buttonFocus(searchButtonsByTag(tag));
