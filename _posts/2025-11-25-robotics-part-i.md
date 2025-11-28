@@ -16,6 +16,10 @@ I've been doing robotics competitions since what, fourth grade? Before I enter m
 
 Note that all of this is my own opinion, and not representative of any of the teams I have competed on. I've tried to keep everything as true as possible, but of course, there may be some inaccuracies.
 
+Also, some parts may be critical of certain people, I've tried to be as honest as I can here. Please, do not take offense, you are not the person who would make this mistake, because otherwise, why would I write this? But mistakes are to be learned from, and I'm including them so that hopefully, the next person will not make the same mistake.
+
+I'm really writing this, just in the hope that 41 will not do the same thing again, in my final year.
+
 -----
 
 I started (roughly) robotics in fourth grade, on a VIQC team in the Long Hill Robotics club. Back then, we were still led by Mr. Hadzic (I've been told I should call him Dr. Hadzic, but I can't stop myself due force of habit accumulated over many years).
