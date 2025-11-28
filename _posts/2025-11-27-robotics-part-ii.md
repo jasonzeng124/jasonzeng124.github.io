@@ -2,7 +2,7 @@
 layout:     post
 title:      "reflections on 8 years of robotics - part ii"
 subtitle:   "...high school"
-date:       2025-11-25 23:00:00
+date:       2025-11-27 23:00:00
 author:     "jasonzeng124"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
