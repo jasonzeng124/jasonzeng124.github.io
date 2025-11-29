@@ -44,7 +44,7 @@ https://github.com/kitian616/jekyll-TeXt-theme
 
 
 				{%- for _article in _sorted_list -%}
-				{%- if _article.alter -%}
+				{%- if _article.alter>0 -%}
 				{%- assign _tags = 'alter,' -%}
 				{%- else -%}
 				{%- assign _tags = '' -%}
