@@ -9,6 +9,7 @@ hallo
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
+            <span class="badge">{{post.alter}}</span>
             {{ post.title }}
         </h2>
         {% if post.subtitle %}

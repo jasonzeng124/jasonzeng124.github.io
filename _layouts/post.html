@@ -33,9 +33,8 @@ layout: default
                     {% assign prev_post = nil %}
                     {% assign next_post = nil %}
 
-                    {% if page.alter %}
                     {% for post in site.posts %}
-                    {% if post.alter %}
+                    {% if post.alter <= page.alter %}
                         {% if post.date < page.date and prev_post == nil %}
                         {% assign prev_post = post %}
                         {% endif %}
@@ -44,11 +43,6 @@ layout: default
                         {% endif %}
                     {% endif %}
                     {% endfor %}
-                    {% endif %}
-                    {% unless page.alter %}
-                    {% assign prev_post = page.previous %}
-                    {% assign next_post = page.next %}
-                    {% endunless %}
 
                     {% if prev_post.url %}
                     <li class="previous">

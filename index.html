@@ -4,7 +4,7 @@ description: "「离开世界之前 一切都是过程」"
 ---
 
 {% for post in site.posts %}
-{% if post.alter %}
+{% unless post.alter>0 %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
@@ -28,5 +28,5 @@ description: "「离开世界之前 一切都是过程」"
     </p>
 </div>
 <hr>
-{% endif %}
+{% endunless %}
 {% endfor %}

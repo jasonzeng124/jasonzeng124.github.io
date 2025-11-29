@@ -7,7 +7,7 @@ author:     "jasonzeng124"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 mathjax: true
-alter: true
+alter: 0
 tags:
     - Competitive Programming
     - Codeforces
@@ -37,4 +37,3 @@ It seems like the idea generalizes to E2 with dynamic DP + segtree, I'm not so s
 In any case, this was a pretty cool contest (even though I might've only solved AB if I actually took it). In hindsight, I really should have done my due diligence in *actually* making sure that my solutions work, not just assuming that they do because it feels like it. In the future, I should do more implementation (not just mindsolving), and I should also diversify my problem sources.
 
 Well, if anyone is actually reading this (I know, it was a long blog and you are tired), *please do teamscode*! There are some great problems! Link to announcement: [Teamscode Codeforces Announcement](https://codeforces.com/blog/entry/131526)
-
