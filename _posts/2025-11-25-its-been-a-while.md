@@ -7,7 +7,7 @@ author:     "jasonzeng124"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 mathjax: true
-alter: 2
+alter: 1
 tags:
     - Life
     - Blog
@@ -23,6 +23,8 @@ anyway, roughly, what did I do last year????? it feels......
 
 well, I'm going to miss a lot of stuff here. sorry (to myself)... some stuff will also be a bit vague, sorry.
 
+[some redactions have been applied to the below]
+
 ---
 
 
@@ -33,8 +35,6 @@ after that, grinding RSI apps. and more summer camp apps. and more apps. ahhhh i
 during the break i travelled to california, that was nice, played some tractor.
 
 all the while I didn't do much CP, didn't virtual anything, and trolled USACO december...
-
-Ok, I have to confess, I also did a research project on using U-Net CNNs to convert MRIs to synthetic CT scans, with a prof at Yale. Anyway, said prof left Yale, so now I can't finish the project, and I can't reach her to get a recommendation letter or anything. sad. and I spent a ton of time on that, too. very sad. maybe I'll write more about this later, idk. Also was going to present to scifair but that was same day as USACO.
 
 ---
 
@@ -54,11 +54,9 @@ Anyway, as I plunge into Janurary, nothing really eventful happens. Some grindin
 
 February. aime (10) (oh right my amc was like 109.5). f=ma(17). After f=ma i resolve myself to finishing a few more chapters of purcell, and then going through thermo.
 
-Around this time I was rejected like literally everywhere lmao. like I went like 0/5 for summer camps, including reject by school for governor's school :noooo:.
+Around this time I was rejected like literally everywhere lmao. like I went like 0/5 for summer camps, including reject at school stage for governor's school :noooo:.
 
 Then, March; April. More grinding physics. Got through like chapter 8 ish. Took USNCO locals and qualified (46/60, cutoff was 45). planning teamscode. probably some more stuff, I really forget, my calendar isn't really accurate.
-
-Around this time, I'm actually (wait if you are my classmate and you see this, sorry for gatekeeping, I'm sure you will understand....) invited to attend the first cohort of the CrowdMath Internship (CMI) program. So I'm also simultaneously grinding commutative algebra, and also working on some LLM fine-tuning work.
 
 Apparently my calendar says hillshacks is around this time. like literally. 9. people were there. 7 were like executive board. At this point I don't belive in hillshacks again. I still don't. 
 
@@ -69,10 +67,6 @@ USAPhO. genuinely idfk how this happened, I was mocking like <1 problem consiste
 USNCO National exam. the most productive thing I did was eat cookies there. I got like <50% on multiple choice, literally drew hexagons on the free response, and like did the most stupid lab procedures possible. Titrating 10x diluted buffer with 1M HCl and wondering why the pH changes so fast. skull emoji.
 
 May. AP exams. btw our robotics team failed, for like the third year in a row. Also, I forgot about the frisbee season, anyway we lost every game we played.
-
-At this point I'm rejected from all the summer camps. I decided to cold email some profs at Rutgers to see if I could work on some TCS research over the summer. TL;DR: there is a prof who agreed to work with me (thank you so much), but unfortunately I didn't have as much time to work on it as I thought I would, and the problem I was working on was not really my strong suit (euclidean geometry), so I didn't get much done. Still, it was educational and I learned a lot.
-
-I was also grinding one of the crowdmath internship final papers, its on arXiv now, submitted to journals. much thanks to my teammates for their contributions and to our mentors for the support and guidance.
 
 Anyway, the rest of the summer. I went on vacation for a week or two. teamscode. more grinding CMI. OPhO.
 
