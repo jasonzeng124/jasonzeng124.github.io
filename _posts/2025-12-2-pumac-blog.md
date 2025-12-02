@@ -64,3 +64,5 @@ One minor regret is that I didn't really meet up with anyone (oop forgot to arra
 
 Thanks to my team for coming (tbh, I wasn't sure if I'd be able to find a team at all), and PUMaC for the competition (I enjoyed the problems! or at least, a nontrivial subset of the problems!!! ~~as a problemsetter, we all know that that's all that matters~~)
 
+![modern art](/img/content_images/2025_12_2_modern_art.jpg)
+*above: some modern art from the princeton art museum, which had 21,763 visitors in its first 24 hours in 2025*
