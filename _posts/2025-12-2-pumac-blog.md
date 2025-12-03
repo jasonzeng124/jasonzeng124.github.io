@@ -16,6 +16,8 @@ tags:
 
 *Above: 1564 tigers can fit on the first floor of Nassau Hall.*
 
+Some redactions have been made, should be unredacted after Jan 16th 2026 (remind me if it is after Jan 16 and you see this).
+
 
 On nov. 22 (approx 2 weeks ago), I went to PUMaC with some friends at my school (our school does not have an official team, we won't talk about sad things here tho xD). The participants were me, LMY, WYT, KS, SMX, LYT, RET, PSA. A certain XDR was originally in our team but didn't have time, rip.
 
@@ -31,14 +33,13 @@ Day of: I arrive around like 8:10, and PSA is already there lol. We wait until l
 
 By we chill, I mean like half of the people panic and try to memorize vietas, while the other half jokes about cheating :skull: "very funny" - D.
 
-We take indivs round 1 (most people take alg, I took combi). Solved 5 on combi. Sillied problem 1 (can't read noooo), definitely, results haven't come out yet tho. Don't think I could've solved anything extra tho.
+We take indivs round 1 (most people take alg, I took combi). Solved 5 on combi. Sillied problem 1, definitely, results haven't come out yet tho. Don't think I could've solved anything extra tho.
 
-Then, break. And indivs round 2 (most people took geo, I took NT). Solved 4, again sillied problem 1 (aksldfj;lasdjf 2025 is a perfect square). Also don't think I could've solved anything extra.
+Then, break. And indivs round 2 (most people took geo, I took NT). Solved 4, again sillied problem 1. Also don't think I could've solved anything extra.
 
-Then team round. I kinda didn't like this team round, there really wasn't combo that I could do. Anyway I solve like 2, ish, perhaps, then idk how too solve anything else. I end up trying to bash a questoin for like 20 minutes, didn't even finish. LMY also ended up bashing stuff. idk this team round was really really bad... probably one of my lowest points in comp math.
+Then team round. I kinda didn't like this team round. Anyway I solve like 2, ish, perhaps, then idk how too solve anything else. I end up trying to bash a questoin for like 20 minutes, didn't even finish. LMY also ended up bashing stuff. idk this team round was really really bad... probably one of my lowest points in comp math.
 
-![my scrap work on team round, showing bash](/img/content_images/2025_12_2_pumac_bashing.jpg)
-*above: live imagery of me selling on team round*
+*[redacted] above: live imagery of me selling on team round*
 
 So after discussing, I conclude that either WYT or I might've made indiv finals.
 
