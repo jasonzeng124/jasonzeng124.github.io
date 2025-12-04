@@ -34,4 +34,6 @@ wow. solved 4 and sillied all 4 is also crazy. that would've made indiv finals t
 
 It looks like I'm quite washed.  Maybe it's a good thing that I retired from comp math after throwing AIME in sophomore year.
 
+*edit: it looks like if i took alg or geo i'd have a chance at qualing too, if my quick looks are correct*
+
 p.s. if anyone wants to invite me to another college math competition, please lmk, i'm down to go to most places on east coast
