@@ -70,7 +70,7 @@ I do agree with most of these suggestions, and I really do hope that CP communit
 
 In his farewell speech alex mentioned usaco server. wow that brought back some memories. back then, usaco server was... idk how to describe it... ... ... ... quite alive. Back then the mods would create threads after every cf round and change the channel name manually. and in each thread there would be multiple people discussing... those were good times........ i'll probably write more about this later.
 
-but then, I still find this in the greater CP community, and hopefully it'll stay there :D
+but then, I still find this in the greater CP community, and hopefully it'll stay there :D In general, in person CP contests are really nice, we should have more :pray: (more that are near me :pray:)
 
 
 I might write a blog post on all of MITIT, soon TM.
