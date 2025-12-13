@@ -17,7 +17,7 @@ Applying to college as a camper has always felt somewhat strange. There are few 
 
 So there's a significant bit of banking on MIT, already. And then, statistically, campers have pretty good chances of MIT, which is a good thing. And that's what I'm hoping for.
 
-But what if I don't get into MIT? Then, I'm basically thrown in with the rest of the average CS applicants, and I have to shotgun. And still, I'll probably end up at like UT or UMD (basically the camper safeties at this point?) anyway, as I get rejected from everywhere better. From what I've heard, a lot of campers get rejected from like the top 10 schools. And honestly, that's (I mean like going to UT/UMD/whatever) fine with me. Even going to Rutgers is fine with me. It just feels somewhat strange, though.
+But what if I don't get into MIT? Then, I'm basically thrown in with the rest of the average CS applicants, and I have to shotgun. And still, I'll probably end up at like UT or UMD (basically the camper safeties at this point?) anyway, as I get rejected from everywhere better. There's not really an intermediate (quite literally i probably go to either MIT or UMD/UT/some similar state flagship); from what I've heard, a lot of campers get rejected from like the top 10 schools. And honestly, that's (I mean like going to UT/UMD/whatever) fine with me. Even going to Rutgers is fine with me. It just feels somewhat strange, though.
 
 -----
 
