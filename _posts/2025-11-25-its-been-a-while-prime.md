@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "its been a while"
+title:      "its been a while [long version]"
 subtitle:   "\"i really regret not blogging\""
 date:       2025-11-25 19:00:01
 author:     "jasonzeng124"
