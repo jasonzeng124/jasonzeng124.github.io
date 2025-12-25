@@ -2,7 +2,7 @@
 layout:     post
 title:      "predictions on the robotics season"
 subtitle:   "soon, we'll know how they turn out"
-date:       2025-12-23 22:00:00
+date:       2025-12-26 19:00:00
 author:     "jasonzeng124"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
