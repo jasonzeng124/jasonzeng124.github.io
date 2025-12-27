@@ -16,7 +16,7 @@ I tried predicting the odds of my classmates' chances at college. Well, the earl
 
 My average surprise (or cross-entropy loss, basically $-\log p$ where $p$ denotes the probability that I assigned to the outcome) was 1.11. This is higher than a bit, so its basically useless. I would've done better assigning all my classmates 50%s and just watching coins flip.
 
-The base rate in my data was like 43%, so a flat predictor wouldn't do better than me. And acceptance rate would do worse than me too.
+The base rate in my data was like 43%, so a flat predictor wouldn't do much better than me. And acceptance rate would do worse than me too.
 
 I do think I did not predict as well as I could have, some mistakes being:
 
