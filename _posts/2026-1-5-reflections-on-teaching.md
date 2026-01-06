@@ -12,9 +12,9 @@ tags:
     - Life
 ---
 
-#### prelude
-
 So I have this job teaching little kids (like elementary school students) robotics. Well I had this job (I'm leaving due to robotics season).
+
+#### prelude
 
 Teaching (well more like babysitting is what I do; I just give them a project and watch them work on it; I guess, that's really all I'm intended to do (or capable of doing anyway)...). Anyway. Teaching is lowk a pain, especially with kids of that age absorbing all of the internet degeneracy, having no attention span, and not wanting to do what I tell them to do. ~~I swear our generation was nicer as children~~. Although much of it is, like, just having to deal with little children, which I'm quite terrible at.
 
