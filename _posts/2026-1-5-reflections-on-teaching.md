@@ -44,6 +44,14 @@ I tell my students that copying is ok. And here's why:
 
     Why do we copy? Oftentimes (I see this with my students and also many robotics teams), we copy because it is simply a better design, that's just simply *better* than the original. The act of copying itself is a sort of update, to acknowledge that "that's better, we should do something like that". And knowing other designs and why they're better is learning.
 
+4. Do better
+
+    If you copy, you should always try to do better. Oftentimes you can improve on whatever you copy.
+
+    Some people are afraid of being copied because they think whoever's copying them will do exceed them. But really, they should be trying to do better themselves.
+
+    Regardless, if something is done better, it is progress. And the more people who copy and try to do better, the more progress.
+
 #### teaching is bad, sometimes.
 
 I've taught, like actually taught, for perhaps less than 10 minutes total, over all my classes. And most of these were like small tips or suggestions. I've never taught anything on a larger scale.
