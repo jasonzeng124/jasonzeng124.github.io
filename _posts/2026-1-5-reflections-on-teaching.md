@@ -64,7 +64,13 @@ My smartest student was the one who would try the stupidest things. and fail. an
 
 Other students were, well, used to building the building-type LEGO and would refuse to try to motorize anything.
 
-I really don't have much else to say here. 
+Don't be afraid to fail. Failure is how you learn, anyway.  I really don't have much else to say here. 
+
+#### Failure is how you learn.
+
+I really don't have anything to say here. It's quite obvious, right? To train a classifier is to have positive examples and negative examples. Failure is the negative example.
+
+That's why failure is really not a bad thing. That you fail many times in a while is just as important as succeeding once in a while. Perhaps more important. As long as you learn from it (~~not team 41~~).
 
 #### some more random thoughts.
 
