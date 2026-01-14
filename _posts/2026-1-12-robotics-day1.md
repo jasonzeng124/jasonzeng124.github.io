@@ -7,7 +7,7 @@ author:     "jasonzeng124"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 mathjax: true
-alter: 0
+alter: 1
 tags:
     - Robotics
 ---
@@ -17,6 +17,8 @@ So I walk in and AG is already talking about his design. Pretty meta: extensible
 It looks like I'm not the only one affected by powercreep. Taken in perspective, I'm not powercreeping at all. (ok, maybe a bit, a bit overambitious with shoot-on-the-fly...)
 
 Although our mentor is also powercreeping...... \dots not sure if that's a good thing.
+
+note: powercreep means like increasing in complexity.
 
 -----
 
