@@ -2,7 +2,7 @@
 layout:     post
 title:      "day 2 of robotics"
 subtitle:   "it's already very joever"
-date:       2026-1-11 22:00:00
+date:       2026-1-13 22:00:00
 author:     "jasonzeng124"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
