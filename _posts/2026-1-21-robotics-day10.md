@@ -52,6 +52,8 @@ He also told me to get a programming todo list. So here it is:
 10. (depends on: 5) shoot-on-the-fly
 11. stupid stuff like update software
 
+12. Remind me to get electrical to find the cameras for me. And a USB thumb drive.
+
 Wow that's surprisingly not that much. And besides the shooter stuff, the rest is pretty much no-brain. Like run motor at 1434% speed. But damn this shooter is gonna be hard.
 
 Ok this is all doable by freshmen. So yea....
