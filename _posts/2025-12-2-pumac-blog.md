@@ -18,6 +18,8 @@ tags:
 
 Some redactions have been made, should be unredacted after Jan 16th 2026 (remind me if it is after Jan 16 and you see this).
 
+edit: see [unembargoed page on next post](/2025/12/02/pumac-blog-unembargoed/)
+
 
 On nov. 22 (approx 2 weeks ago), I went to PUMaC with some friends at my school (our school does not have an official team, we won't talk about sad things here tho xD). The participants were me, LMY, WYT, KS, SMX, LYT, RET, PSA. A certain XDR was originally in our team but didn't have time, rip.
 
