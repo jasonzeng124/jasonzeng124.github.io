@@ -7,7 +7,7 @@ author:     "jasonzeng124"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 mathjax: true
-alter: 0
+alter: 1
 tags:
     - Robotics
 ---
@@ -40,7 +40,7 @@ LYT is telling me at unprecedented frequency to bail out. Probably also a good i
 
 So anyway let's get to the fun part.
 
-Mr. Hadzic came in. Anyway we eat dinner and then go try to fix the electrical issue. We fool around trying to get oscilloscope working (including stealing stuff from Teacher G). No use.
+Mr. Hadzic came in. Anyway we eat dinner and then go try to fix the electrical issue. We fool around trying to get oscilloscope working (including stealing stuff from Teacher G). No use. Oh and one other thing. Why doesn't electrical have a working multimeter????????????????????????
 
 Mr. H notices some crimps around the Rio that seem to be broken. Anyway it's those. Skull emoji.
 
