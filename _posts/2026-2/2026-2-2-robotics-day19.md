@@ -71,6 +71,8 @@ What is this opposition? some sort of... pride? culture? just.... what? "we're t
 
 And a general mood of sunk-cost fallacy...
 
+And quote "we don't need 5 weeks for the backup robot". As if you're going to wait 3 weeks and then say "omg there's two weeks left we gotta go to the backup robot"
+
 -----
 
 Anyway today I look into the shop, it's empty.
@@ -127,3 +129,8 @@ Day 12. Intake CAD (w/o mounting IIRC) finished
 
 Day 11. Nothing.
 At this point we have a rough shooter CAD, and a rough intake + drivetrain CAD.
+
+
+It looks like the summation of what we've done is CADed polycarb walls, some intake mounts, a circle, and two plates. And finished the shooter, finally.
+
+Hopefully this gives a pretty good picture of our CAD speed.
