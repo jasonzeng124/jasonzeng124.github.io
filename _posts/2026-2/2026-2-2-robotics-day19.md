@@ -101,7 +101,7 @@ My estimated timelines have not changed. At all. Maybe I should move them back a
 
 -----
 
-So I wanted to give a rough history of what has happened the past like 5 or so days, in cad.
+So I wanted to give a rough history of what has happened the past like 5 or so days, in cad. This is based on past blog posts, but is more or less as accurate as it gets...
 
 It might be useful to read this section from bottom up.
 
