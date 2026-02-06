@@ -42,3 +42,5 @@ Well programming is on a slight backlog (well everything is backlogged when your
 
 And here's what the rest of the team will do:
 - nothing. literally nothing.
+
+ok, to be fair what they do isn't entirely visible to me. but it is quite clear to me that its too slow no matter what they are doing.
