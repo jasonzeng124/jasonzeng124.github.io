@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "robotics, day 21"
-subtitle:   ""
+subtitle:   "prophecies come true"
 date:       2026-2-4 21:00:00
 author:     "jasonzeng124"
 header-img: "img/post-bg-2015.jpg"

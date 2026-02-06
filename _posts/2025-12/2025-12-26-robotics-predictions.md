@@ -55,3 +55,13 @@ Anyway, since there are 25 of them, here is your obligatory bingo (randomly gene
 | Driver tryouts never happens | We score 0 points in at least one match | I say something and nobody listens to me, but I'm right | AP / nobody becomes tech captain | Literally nothing changes from last year |
 
 During the season I plan to have daily blog updates on what happens :D.
+
+-----
+
+upd on day 22:
+
+| **I don't approve the design** | **No dinner in week 4** | **Someone says "no but we have the plasma cutter"** | ~~Every single part in sight touches the CNC~~ | Something breaks really badly pre-comp |
+| We do worse than pingry | **Drivetrain not done by end of week 2** | **We make a design with \ge 3 DOFs** | We stay after 10 PM | ~~I give up and decide grinding USACO is a better use of time~~ |
+| We can't mount something | Nontrivial robot mechanical changes in last week | We don't make lehigh | No autos | Programming gets <2 weeks of time |
+| < 10 hours of driving practice time | **Project management doesn't last past week 3** | ~~Our robot tries to do >1 thing~~ | **Design not finalized by week 1** | Failure is blamed on anything other than ourselves |
+| Driver tryouts never happens | We score 0 points in at least one match | **I say something and nobody listens to me, but I'm right** | **AP / nobody becomes tech captain** | ~~Literally nothing changes from last year~~ |
