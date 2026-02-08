@@ -2,7 +2,7 @@
 layout:     post
 title:      "nothing you did in high school matters"
 subtitle:   "even if you are one of the goats."
-date:       2026-1-29 22:01:00
+date:       2026-2-6 22:01:00
 author:     "jasonzeng124"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
@@ -34,11 +34,13 @@ Well if you do genuinely do such things for college applications (and people do 
 
 One other thing people do for this is to try to cheat and game the system. This comes in many forms, from literally cheating on tests (one of my friends told me about someone pulling out their apple watch during aime; i did not qualify lol), to less obvious things such as buying research, publishing low-quality research, making fake NPOs, whatever. This also creates a "market of lemons" type thing where colleges can't really trust said achievements. But enough about college. Doing this gives you no XP (perhaps, negative XP).
 
-IMO the real reason to do, like almost anything, in HS (or in general esp. while you're young) is to gain knowledge and XP. High school is a great time to do random things and fail (or succeed). And really, the only thing that you're going to take away from high school is whatever you learn, which is your knowledge and XP.
+Other reasons to do things include reasons such as learning, or for fun, or because you like doing so. Which are all great reasons, of course.
+
+But perhaps the biggest benefit of doing, like almost anything, in HS (or in general) is to gain knowledge and experience. High school is a great time to do random things and fail (or succeed). And really, the biggest thing that you're going to take away from high school is whatever you learn, which is your knowledge and XP.
 
 And perhaps one of the best ways to gain xp is to literally do things. and this should be the real reason to do anything in high school. and really what you gain from a lot of high school is the ability to sit down and grit through something. what you achieved is really not that important, the important part is that you tried. and more importantly, that you tried hard.
 
-And you should try hard even knowing that you probably won't achieve anything, and that it probably won't matter, and you'll probably fail. Because this gets you a lot of experience, and if you can work without expecting success, you can work on almost anything. Not that you can expect success from working on literally anything. But at least you can try.
+And you should try hard even knowing that you probably won't achieve anything, and that it probably won't matter, and you'll probably fail. Because this gets you a lot of experience, and if you can work without expecting success, you can work on almost anything. Not that you can expect success from working on literally anything. But at least you can try. This is how you gain XP. And the more experience you gain, the easier this becomes.
 
 And it is also worth noting that the more variety of things you try, the more XP you gain.
 
