@@ -2,7 +2,7 @@
 layout:     post
 title:      "robotics, day 22"
 subtitle:   "nothing to say really"
-date:       2026-2-9 21:00:00
+date:       2026-2-10 21:00:00
 author:     "jasonzeng124"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
