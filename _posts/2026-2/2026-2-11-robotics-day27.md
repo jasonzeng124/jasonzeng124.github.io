@@ -20,6 +20,10 @@ Anyway as soon as I got into the shop we find out someone put loctite on the pol
 
 -----
 
+Everything is business-as-normal. And I don't really like business-as-normal. But there's nothing I can do to change it.
+
+After some conversation with LXM I think that my suspicion that something about the elevator and shooter won't work like we want it to is very very justified. And I think having a backup robot or at least the ability to do one very fast is important. And it's not unlikely that we'll have to abandon everything.
+
 Did some talking with mentor S, about making an illegal backup robot on the old robot. Somewhat inspired by Mech. Adv. 's build blog on chiefdelphi (good read btw).
 
 Anyway after a bunch of talking i decide that talk is cheap and i get KC to actually do it. It'll take like 2 or 3 days but it'll be done, surely.
