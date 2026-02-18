@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "robotics, day 30"
-subtitle:   "buzinezz as uzual (zs are for lazy)"
+subtitle:   "buzinezz as uzual (zs are for lateness)"
 date:       2026-2-19 22:00:00
 author:     "jasonzeng124"
 header-img: "img/post-bg-2015.jpg"
