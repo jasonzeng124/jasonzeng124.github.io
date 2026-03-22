@@ -72,6 +72,8 @@ A:
 
 First 3 because of great teachers. Last 2 because who doesn't like messing around with circuits or robots.
 
+For what it's worth, most of these courses are study halls except you get to pay attention when there's something interesting.
+
 B:
 - AP Lit (*senior course)
 - Chinese 2A
@@ -81,7 +83,18 @@ B:
 
 Taking chinese was the best schedulindg decision I've made in all of high school
 
-C (not a study hall but same):
+C* (study hall):
+- Alg 2H
+- Precalc H
+- AP Stat
+- AP Econ
+- AP Psych
+- Crafts
+- Entrepreneurship
+
+Math is a joke. And most other random stuff.
+
+C (not a study hall but at least its interesting sometimes):
 - Eng 1H
 - AP Lang
 - English 4H
@@ -94,17 +107,6 @@ C (not a study hall but same):
 - Organic Chem H
 
 You can tell I don't like history. Or english. Or bio.
-
-C* (study hall):
-- Alg 2H
-- Precalc H
-- AP Stat
-- AP Econ
-- AP Psych
-- Crafts
-- Entrepreneurship
-
-Math is a joke. And most other random stuff.
 
 D (worse than study hall):
 - AP Bio
